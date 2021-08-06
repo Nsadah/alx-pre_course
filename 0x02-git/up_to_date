@@ -1,2 +1,5 @@
-# alx-pre_course
-I'm now a ALX Student, this is my first repository as a full-stack engineer.
+git add alx-pre_course/0x02-git/up_to_date
+git commit -m "How to be up to date in git"
+git remote add origin https://github.com/Nsadah/alx-pre_course.git
+git push -u origin master
+git push origin master
